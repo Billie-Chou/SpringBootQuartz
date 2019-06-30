@@ -1,0 +1,3 @@
+SpringBoot整合Quartz
+
+- 需要注意的是job类对象注入是需要重写AdaptableJobFactory下的createJobInstance方法
